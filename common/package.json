@@ -1,0 +1,21 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "tsc -b",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "class-validator": "^0.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.2",
+    "typescript": "^4.9.5"
+  }
+}
